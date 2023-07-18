@@ -1,0 +1,1 @@
+console.log("Saya Suka Makan Apa Saja Asal Enak");
