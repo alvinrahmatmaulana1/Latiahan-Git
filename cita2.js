@@ -1,0 +1,1 @@
+console.log("Saya ingin jadi programmer")
